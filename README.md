@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A Full Stack dApps with React, Ethers.js, Solidity, and Hardhat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is an example of smart contracts development with Ethereum. It encompases the best stack for building full stack dApps with Solidity
 
 ## Available Scripts
 
