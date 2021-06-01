@@ -4,6 +4,8 @@ This project is an example of smart contracts development with Ethereum. It enco
 
 <i>You do not need to own any Ethereum for this guide as we will be using fake / test Ether on a test network</i>
 
+This project was inspired by an [article](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) by [Nader Dabit](https://dev.to/dabit3).    
+
 ## Used Frameworks/Libraries
 -  Client Framework - [React](https://www.reactjs.org)
 -  Ethereum development environment - [Hardhat](https://hardhat.org/)  
@@ -13,7 +15,7 @@ This project is an example of smart contracts development with Ethereum. It enco
 ### Prerequisites
 
 -  [Node.js](https://nodejs.org/en/) installed on your local machine  
--  [MetaMask](https://metamask.io/) Chrome extension installed in your browser
+-  [MetaMask](https://metamask.io/) browser extension installed (in your browser)
 
 ### Getting Started
 Clone the repository  
